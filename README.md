@@ -4,8 +4,6 @@ M3U8 - a mini M3U8 downloader written in Golang for downloading and merging TS(T
 
 You only need to specify the flags(`u`, `o`, `c`) to run, downloader will automatically download all TS files and consolidate them into a single TS file.
 
-[中文说明](README_zh-CN.md)
-
 ## Features
 
 - Download and parse M3U8（VOD）
